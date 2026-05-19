@@ -91,3 +91,7 @@ The goal is building systems and workflows that fail predictably, recover consis
 ## Disclaimer
 
 Examples are intentionally simplified and generalized for educational and architectural discussion purposes.
+
+## Observability Architecture
+
+![Platform Reliability Architecture](platform_reliability_architecture.png)
